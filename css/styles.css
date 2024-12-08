@@ -1,0 +1,216 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+.visually-hidden {
+  visibility: hidden;
+}
+
+/* #region Header */
+.header-page {
+  background-color: #fff;
+}
+.header-nav {
+}
+.logo-style {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo-style-accent {
+  color: #2e2f42;
+}
+.header-nav-list {
+}
+.item-nav-list {
+}
+.item-nav-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.item-nav-link:hover,
+.item-nav-link:focus {
+  color: #404bbf;
+}
+
+.header-adr {
+  font-style: normal;
+}
+.header-adr-list {
+}
+.item-adr-list {
+}
+.item-adr-link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.item-adr-link:hover,
+.item-adr-link:focus {
+  color: #404bbf;
+}
+/* #endregion Header */
+
+/* #region Section Hero */
+.section-hero {
+  background-color: #2e2f42;
+}
+.main-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+.hero-btn {
+  background-color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}
+/* #endregion Section Hero */
+
+/* #region Section Advantages */
+.section-advantages {
+  background-color: #ffffff;
+}
+.section-advantages .section-title {
+}
+.section-list {
+  background-color: #ffffff;
+}
+.item-list {
+}
+.title-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section-advantages .text-list {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* #endregion Section Advantages */
+
+/* #region Section Team */
+.section-team {
+  background-color: #f4f4fd;
+}
+.section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+.section-list {
+}
+.item-list {
+  background-color: #ffffff;
+}
+.img-item-list {
+}
+.section-team .title-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.section-team .text-list {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+/* #endregion Section Team */
+
+/* #region Section Portfolio */
+.section-portfolio {
+  background-color: #ffffff;
+}
+.section-title {
+}
+.section-list {
+  background-color: #ffffff;
+}
+.item-list {
+}
+.img-item-list {
+}
+.title-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+.text-list {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* #endregion Section Portfolio */
+
+/* #region Section Footer */
+.footer-page {
+  background-color: #2e2f42;
+}
+.logo-style {
+}
+.footer-page .logo-style-accent {
+  color: #f4f4fd;
+}
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+/* #endregion Section Footer */
