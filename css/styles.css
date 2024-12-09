@@ -63,7 +63,7 @@ img {
   padding-bottom: 120px;
 }
 
-/* #region Header ========================== */
+/* #region Header ==================================================== */
 .header-page {
   background-color: #fff;
   border: 1px solid #e7e9fc;
@@ -136,9 +136,9 @@ img {
 .item-adr-link:focus {
   color: #404bbf;
 }
-/* #endregion Header ========================== */
+/* #endregion Header ==================================================== */
 
-/* #region Section Hero ========================== */
+/* #region Section Hero ==================================================== */
 .section-hero {
   background-color: #2e2f42;
   padding-top: 188px;
@@ -173,9 +173,9 @@ img {
 .hero-btn:focus {
   background-color: #404bbf;
 }
-/* #endregion Section Hero ========================== */
+/* #endregion Section Hero ==================================================== */
 
-/* #region Section Advantages ========================== */
+/* #region Section Advantages ==================================================== */
 .section-advantages {
   background-color: #ffffff;
 }
@@ -204,9 +204,9 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
-/* #endregion Section Advantages ========================== */
+/* #endregion Section Advantages ==================================================== */
 
-/* #region Section Team ========================== */
+/* #region Section Team ==================================================== */
 .section-team {
   background-color: #f4f4fd;
 }
@@ -242,9 +242,9 @@ img {
   text-align: center;
   color: #434455;
 }
-/* #endregion Section Team ========================== */
+/* #endregion Section Team ==================================================== */
 
-/* #region Section Portfolio ========================== */
+/* #region Section Portfolio ==================================================== */
 .section-portfolio {
   background-color: #ffffff;
 }
@@ -272,9 +272,9 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
-/* #endregion Section Portfolio ========================== */
+/* #endregion Section Portfolio ==================================================== */
 
-/* #region Section Footer ========================== */
+/* #region Section Footer ==================================================== */
 .footer-page {
   background-color: #2e2f42;
   padding: 100px 0;
@@ -293,4 +293,4 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-/* #endregion Section Footer ========================== */
+/* #endregion Section Footer ==================================================== */
