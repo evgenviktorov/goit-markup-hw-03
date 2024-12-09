@@ -33,6 +33,10 @@ button {
   border: none;
 }
 
+img {
+  display: block;
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -62,6 +66,7 @@ button {
 /* #region Header */
 .header-page {
   background-color: #fff;
+  border: 1px solid #e7e9fc;
 }
 
 .header-page .container {
@@ -88,6 +93,7 @@ button {
 }
 .header-nav-list {
   display: flex;
+  gap: 40px;
 }
 .item-nav-list {
 }
@@ -100,7 +106,6 @@ button {
   display: block;
   padding-top: 24px;
   padding-bottom: 24px;
-  margin-right: 40px;
 }
 
 .item-nav-link:hover,
@@ -113,6 +118,7 @@ button {
 }
 .header-adr-list {
   display: flex;
+  gap: 40px;
 }
 .item-adr-list {
 }
@@ -125,7 +131,6 @@ button {
   display: block;
   padding-top: 24px;
   padding-bottom: 24px;
-  margin-right: 40px;
 }
 .item-adr-link:hover,
 .item-adr-link:focus {
