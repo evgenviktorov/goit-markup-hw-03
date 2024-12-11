@@ -222,7 +222,7 @@ img {
 }
 .section-team .section-list {
   display: flex;
-  column-gap: 24px;
+  gap: 24px;
   background-color: #f4f4fd;
 }
 .section-team .item-list {
@@ -274,9 +274,9 @@ img {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
+  row-gap: 48px;
 }
 .section-portfolio .item-list {
-  row-gap: 48px;
 }
 .section-portfolio .img-item-list {
 }
@@ -300,6 +300,8 @@ img {
 
 .container-portfolio {
   padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
 }
 /* #endregion Section Portfolio ==================================================== */
 
