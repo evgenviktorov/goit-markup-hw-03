@@ -222,7 +222,7 @@ img {
 }
 .section-team .section-list {
   display: flex;
-  gap: 24px;
+  column-gap: 24px;
   background-color: #f4f4fd;
 }
 .section-team .item-list {
@@ -273,12 +273,12 @@ img {
   background-color: #ffffff;
   display: flex;
   flex-wrap: wrap;
-  gap: 24px;
+  column-gap: 24px;
 }
 .section-portfolio .item-list {
+  row-gap: 48px;
 }
 .section-portfolio .img-item-list {
-  margin-bottom: 32px;
 }
 .section-portfolio .title-list {
   font-weight: 500;
@@ -296,6 +296,10 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
   margin-bottom: 32px;
+}
+
+.container-portfolio {
+  padding: 32px 16px;
 }
 /* #endregion Section Portfolio ==================================================== */
 
